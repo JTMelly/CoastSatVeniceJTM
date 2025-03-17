@@ -25,7 +25,7 @@ pip install pyqt5 imageio-ffmpeg
 pip install ipyleaflet geojson
 conda install -c conda-forge pytmd
 pip install --upgrade --upgrade-strategy only-if-needed copernicusmarine windrose cartopy seaborn
-pip install --no-deps py-wave-ruup
+pip install --no-deps py-wave-runup
 pip install siphon
 pip install "dask[distributed]" --upgrade
 ```
